@@ -1,0 +1,5 @@
+node_modules/
+database/pets.db
+database/pets.db-journal
+.env
+*.log
